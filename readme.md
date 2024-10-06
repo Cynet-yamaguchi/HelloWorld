@@ -2,7 +2,7 @@
 
 ### JDK の DL 及びインストール
 
-1. 以下の URL 等から`JDK 17`を DL
+1. 以下の URL 等から `JDK 17`を DL
    [(https://www.oracle.com/jp/java/technologies/downloads/](https://www.oracle.com/jp/java/technologies/downloads/)
    インストーラを使用すると PATH やレジストリに設定が追加されるので、不要な方は `x64 Compressed Archive`を使用する
 2. DL したファイルをインストールまたはディレクトリに配置
@@ -34,15 +34,12 @@
 1. 画面左下の｢ブランチまたはタグのチェックアウト｣を選択
 
    ![1728178880985](image/readme/1728178880985.png)
-
 2. ｢新しいブランチを以下から作成｣を選択
 
    ![1728178937600](image/readme/1728178937600.png)
-
 3. ブランチの作成元として `origin/main`を選択
 
    ![1728178650037](image/readme/1728178650037.png)
-
 4. 作成するブランチ名(自分のブランチだとわかる名称)を指定して `Enter`
 
    ![1728178677337](image/readme/1728178677337.png)
