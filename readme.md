@@ -1,11 +1,13 @@
-## Java 開発環境の構築
+## Java 開発環境の構築(for vsc)
 
 ### JDK の DL 及びインストール
 
 1. 以下の URL 等から `JDK 17`を DL
+   
    [(https://www.oracle.com/jp/java/technologies/downloads/](https://www.oracle.com/jp/java/technologies/downloads/)
+
    インストーラを使用すると PATH やレジストリに設定が追加されるので、不要な方は `x64 Compressed Archive`を使用する
-2. DL したファイルをインストールまたはディレクトリに配置
+3. DL したファイルをインストールまたはディレクトリに配置
 
 ### 拡張機能の導入
 
@@ -17,7 +19,11 @@
 
 1. `Ctrl + ,`で設定を開き、検索欄に `java home`と入力
 2. settings.json で編集のリンクを開き、JDK のディレクトリを指定
+   
    ex) `"java.jdt.ls.java.home": "D:\\Users\\xxx\\Projects\\JDK\\jdk-17",`
+
+
+# 以下、gitを使用する際の手順(git導入済想定)
 
 ## リポジトリの開き方
 
